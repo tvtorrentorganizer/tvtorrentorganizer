@@ -10,7 +10,8 @@
 #directory you specify. EXCEPTION: If a file or directory already exists where the script
 #tries to move something, it will rename the original to original.bak and move the new file
 #over. HOWEVER, it will only make one backup of the original. If the script runs again and
-#has to backup a current file again, it will overwrite the first backup. Basically, it will prevent you from having 3 copies of the same show.
+#has to backup a current file again, it will overwrite the first backup. Basically, it will 
+#prevent you from having 3 copies of the same show.
 #The script will pull all mkv,mp4,mov and avi files out of the "downloads_location"
 #directoy and subdirectories, move any subdirectories which contained those files to the
 #"trash_location" INCLUDING any non video files like nfo,txt,srt,sub,etc.
