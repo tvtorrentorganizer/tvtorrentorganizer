@@ -1,5 +1,7 @@
 # tvtorrentorganizer
+#
 #A simple Bash 4 script to rename and organize shows in the format 
+#
 #Show Name S##E##.extension
 #USE AT YOUR OWN RISK, I PROVIDE NO WARRANTY. BACKUP YOUR MEDIA AND TEST BEFORE DEPLOYING!
 #Could probably be rewritten using sed instead of Bash 4 string manipulations for better 
